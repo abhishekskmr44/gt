@@ -1,0 +1,14 @@
+.search{
+  position: relative;  
+  }
+  .search input{ 
+   text-indent: 25px;
+   border: 2px solid #5ec539; 
+  }
+  .search .fa-search{ 
+   position: absolute;
+   top: 30px;
+   left: 30px; 
+  }
+
+  
